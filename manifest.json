@@ -1,0 +1,73 @@
+{
+	"name": "FascodeNetworkTheme",
+	"version": "1.0",
+	"description": "FascodeNetwork風、Chromeテーマです。かっこいい壁紙とかっこいいテーマカラーでChromeをおしゃれにしましょう！",
+	"manifest_version": 2,
+	"theme": {
+		"images": {
+			"theme_frame": "images/theme_frame.png",
+			"theme_toolbar": "images/theme_toolbar.png",
+			"theme_tab_background": "images/theme_tab_background.png",
+			"theme_ntp_background": "images/theme_ntp_background.png"
+		},
+		"colors": {
+			"frame": [
+				0,
+				0,
+				0
+			],
+			"toolbar": [
+				0,
+				0,
+				0
+			],
+			"tab_text": [
+				255,
+				255,
+				255
+			],
+			"tab_background_text": [
+				255,
+				255,
+				255
+			],
+			"bookmark_text": [
+				255,
+				255,
+				255
+			],
+			"ntp_background": [
+				0,
+				0,
+				0
+			],
+			"ntp_text": [
+				255,
+				255,
+				255
+			],
+			"ntp_link": [
+				240,
+				240,
+				240
+			],
+			"button_background": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"tints": {
+			"buttons": [
+				0.6,
+				0.5,
+				0.28
+			]
+		},
+		"properties": {
+			"ntp_background_alignment": "right top",
+			"ntp_background_repeat": "no-repeat"
+		}
+	}
+}
